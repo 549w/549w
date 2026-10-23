@@ -6,6 +6,11 @@
 - 🔨 Currently exploring systems and AI infra
 - 🖐️ Use AI to clarify low-level questions, explore high-level designs, and quickly bring ideas to life
 
+### Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **549w/549w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
