@@ -9,6 +9,11 @@
 ### Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [此间乐，不思鼓？](https://imjhy.com/posts/2026-10-21-nju-suzhou/)
+- [NOVA 的「界」](https://imjhy.com/posts/2026-10-20-nova-boundary/)
+- [关于 vibe 小工具和 AI 辅助学习](https://imjhy.com/posts/2026-10-19-1011-activity-summary/)
+- [想清楚](https://imjhy.com/gallery/2026-10-14-think-it-through/)
+- [周三重现](https://imjhy.com/gallery/2026-10-10-wednesday-again/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
