@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔥 Passionate about engineering [since childhood](https://www.meipian.cn/tc1tmj3)
+- 🐳 Undergraduate student at NJU's Software Institute
+- ✨ Part of [NOVA](https://nova.yuque.com/r/organizations/homepage)
+- 🔨 Currently exploring systems and AI infra
+- 🖐️ Use AI to clarify low-level questions, explore high-level designs, and quickly bring ideas to life
+
 <!--
 **549w/549w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
