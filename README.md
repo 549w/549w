@@ -5,6 +5,7 @@
 - ✨ Part of [NOVA](https://nova.yuque.com/r/organizations/homepage)
 - 🔨 Currently exploring systems and AI infra
 - 🖐️ Use AI to clarify low-level questions, explore high-level designs, and quickly bring ideas to life
+- 📮 Reach me at [hi@imjhy.com](mailto:hi@imjhy.com)
 
 ### Latest Writing
 
