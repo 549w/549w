@@ -10,7 +10,11 @@
 
 <table>
   <tbody>
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://imjhy.com/posts/2026-10-21-nju-suzhou/">此间乐，不思鼓？</a></td><td align="right"><code>2026-10-21</code></td></tr>
+<tr><td><a href="https://imjhy.com/posts/2026-10-20-nova-boundary/">NOVA 的「界」</a></td><td align="right"><code>2026-10-20</code></td></tr>
+<tr><td><a href="https://imjhy.com/posts/2026-10-19-1011-activity-summary/">关于 vibe 小工具和 AI 辅助学习</a></td><td align="right"><code>2026-10-19</code></td></tr>
+<tr><td><a href="https://imjhy.com/gallery/2026-10-14-think-it-through/">想清楚</a></td><td align="right"><code>2026-10-14</code></td></tr>
+<tr><td><a href="https://imjhy.com/gallery/2026-10-10-wednesday-again/">周三重现</a></td><td align="right"><code>2026-10-10</code></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
