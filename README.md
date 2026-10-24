@@ -20,7 +20,7 @@
   </tbody>
 </table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=549w&show_icons=true&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=549w&theme=github_dark)
 
 
 <!--
