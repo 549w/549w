@@ -11,11 +11,11 @@
 
 <table>
   <tbody>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://imjhy.com/gallery/2026-10-23-fearless-neko/">鼓楼的不怕人</a></td><td align="right"><code>2026-10-23</code></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://imjhy.com/gallery/2026-10-25-yuzui-breeze/">风乎鱼嘴</a></td><td align="right"><code>2026-10-25</code></td></tr>
+<tr><td><a href="https://imjhy.com/gallery/2026-10-23-fearless-neko/">鼓楼的不怕人</a></td><td align="right"><code>2026-10-23</code></td></tr>
 <tr><td><a href="https://imjhy.com/notes/yuque-%E4%BD%BF%E7%94%A8-github-actions-%E5%90%8C%E6%AD%A5%E8%AF%AD%E9%9B%80%E4%B8%8E%E5%8D%9A%E5%AE%A2/">使用 GitHub Actions 同步语雀与博客</a></td><td align="right"><code>2026-10-22</code></td></tr>
 <tr><td><a href="https://imjhy.com/posts/2026-10-21-nju-suzhou/">此间乐，不思鼓？</a></td><td align="right"><code>2026-10-21</code></td></tr>
 <tr><td><a href="https://imjhy.com/posts/2026-10-20-nova-boundary/">NOVA 的「界」</a></td><td align="right"><code>2026-10-20</code></td></tr>
-<tr><td><a href="https://imjhy.com/posts/2026-10-19-1011-activity-summary/">关于 vibe 小工具和 AI 辅助学习</a></td><td align="right"><code>2026-10-19</code></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
